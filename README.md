@@ -27,8 +27,8 @@ pip install requests beautifulsoup4 lxml
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/email-scraper-demo.git
-cd email-scraper-demo
+git clone https://github.com/RazPriel/Email-Scrapper.git
+cd Email-Scrapper
 ```
 
 2. Run the script:
